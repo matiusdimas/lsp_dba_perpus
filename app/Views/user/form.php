@@ -35,7 +35,7 @@
                 </select>
             </div>
             <div class="form-group">
-                <label class="form-label">Tautkan ke Anggota (1-to-1)</label>
+                <label class="form-label">Tautkan ke Anggota</label>
                 <select name="id_anggota" class="form-control" style="cursor:pointer;">
                     <option value="">-- Tanpa Tautan (Non-Anggota) --</option>
                     <?php foreach($data['anggota'] as $a): ?>
