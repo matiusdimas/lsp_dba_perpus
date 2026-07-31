@@ -1,0 +1,12 @@
+{
+    "name": "lsp/perpustakaan",
+    "authors": [
+        {
+            "name": "Matius Dims",
+            "email": "dimsmatius@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.5"
+    }
+}
